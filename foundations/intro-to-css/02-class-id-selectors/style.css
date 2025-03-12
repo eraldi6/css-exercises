@@ -1,5 +1,5 @@
 .class1 {
-    background-color: #f7afba;
+    background-color: rgb(247, 175, 186);
     font-family: 'verdana', 'DejaVu sans', sans-serif;
 }
 
@@ -13,7 +13,7 @@
 }
 
 #id2 {
-    background-color: #90ee90;
+    background-color: hsl(120, 73%, 75%);
     font-size: 24px;
     font-weight: bold;
 }
